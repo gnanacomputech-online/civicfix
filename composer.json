@@ -1,0 +1,9 @@
+{
+    "name": "finalyear/civicfix",
+    "description": "CivicFix — Municipal Complaint Reporting & SLA Escalation Platform — final year project",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
